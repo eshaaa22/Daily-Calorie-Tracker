@@ -1,2 +1,16 @@
 # Daily-Calorie-Tracker
-Daily Calorie Tracker is a C-based application for monitoring health and nutrition. It allows users to log meals, calculate BMI, and manage daily water intake. Designed as a lightweight, beginner-friendly tool demonstrating structured programming and data management in C.
+
+A simple C programming project to track daily calorie intake, calculate BMI, and manage water consumption.
+This project is designed for students learning Structured Programming in C and Data Structures.
+
+•Features
+
+→Add and view daily meals with calorie counts
+
+→Track total daily calorie intake
+
+→Calculate BMI (Body Mass Index)
+
+→Monitor daily water intake
+
+→Beginner-friendly code with clear structure
